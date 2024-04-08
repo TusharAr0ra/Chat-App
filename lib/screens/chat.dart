@@ -38,7 +38,7 @@ class _ChatScreenState extends State<ChatScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('FlutterChat'),
+          title: const Text('TusharChat'),
           actions: [
             IconButton(
               tooltip: 'Logout',
